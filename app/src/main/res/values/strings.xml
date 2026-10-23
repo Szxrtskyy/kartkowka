@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kartkowka</string>
+    <string-array name="kategorie">
+        <item>logiczne</item>
+        <item>ekonomiczne</item>
+        <item>rodzinne</item>
+        <item>przygodowe</item>
+    </string-array>
+</resources>
